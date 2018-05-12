@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7862
     wikipedia: http://en.wikipedia.org/wiki/Oscar_Levy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18188#Homer-and-Classical-Philology
 gutenberg_bookshelf: Philosophy
 gutenberg_issued: '2006-04-17'
 gutenberg_type: Text
